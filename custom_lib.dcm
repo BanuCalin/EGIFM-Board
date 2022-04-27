@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45-TRANSFO-ACME
+D RJ45 TRANS LEDS ACME ARIA
+K RJ45
+$ENDCMP
+#
+#End Doc Library
